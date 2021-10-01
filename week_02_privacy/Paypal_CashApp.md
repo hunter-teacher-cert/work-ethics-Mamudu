@@ -1,4 +1,4 @@
-PayPal Privacy Statement
+# PayPal Privacy Statement
 Effective September 21, 2021
 
 # Overview
