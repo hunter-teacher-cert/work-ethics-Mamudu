@@ -1,3 +1,4 @@
+# Paypal vs CashApp
 # PayPal Privacy Statement
 Effective September 21, 2021
 
